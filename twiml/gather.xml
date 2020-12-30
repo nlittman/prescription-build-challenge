@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>
+    You pressed {{Digits}}
+  </Say>
+  <Pause length='1'/>
+  <Say>
+    Your prescription is available at 500 Kings Landing Road. 
+  </Say>
+  <Pause length='1'/>
+  <Say>
+    There is a charge of $23.75 on your account. Have a nice day!
+  </Say>
+</Response>

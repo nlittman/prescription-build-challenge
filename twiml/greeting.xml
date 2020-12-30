@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+<Pause length='1'/>
+<Gather numDigits='1' action='https://handler.twilio.com/twiml/EH6e3f685fe1351067c38658ddbceafa03' input='dtmf' timeout='10'>
+<Say>
+  Hello there, this is a reminder from Kings Landing Pharmacy. Your prescription is ready for pick up. Press 1 for more details.
+</Say>
+</Gather>
+</Response>
